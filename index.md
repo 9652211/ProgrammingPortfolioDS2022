@@ -19,3 +19,4 @@ OOP solution for interactive calculator.
 [Source Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Calculator.zip)
 
 ## Java Projects
+![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
