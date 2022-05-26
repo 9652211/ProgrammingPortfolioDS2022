@@ -18,5 +18,14 @@ OOP solution for interactive calculator.
 
 [Source Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Calculator.zip)
 
-## Java Projects
+### ScreenSaver
+A colored, randomized path within the area.
+![ScreenSaver](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreenSaver.png?raw=true)
+
+### Cars
+Dozens of cars with randomized directions and speeds.
+![Cars](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Cars.png?raw=true)
+
+### Chess
+OOP solution for a pawns-only chess clone.
 ![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
