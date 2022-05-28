@@ -29,3 +29,5 @@ Dozens of cars with randomized directions and speeds.
 ### Chess
 OOP solution for a pawns-only chess clone.
 ![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
+
+[Windows EXE](https://github.com/9652211/ProgrammingProjects/blob/main/app/application.windows.zip)
