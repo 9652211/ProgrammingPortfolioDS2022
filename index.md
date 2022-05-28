@@ -33,12 +33,13 @@ A colored, randomized path within the area.
 Dozens of cars with randomized directions and speeds.
 ![Cars](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Cars.png?raw=true)
 
-### Chess
+### Chess - Final Ptoject for Computer Science I
 OOP solution for a pawns-only chess clone.
+![ChessMockup](https://github.com/9652211/ProgrammingProjects/blob/main/images/ChessMockup.png?raw=true)
 ![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
 
 Source: 
-[Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
+[Chess Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
 
 App: 
 [Windows EXE](https://github.com/9652211/ProgrammingProjects/blob/main/app/application.windows.zip)
