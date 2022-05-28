@@ -7,6 +7,8 @@
 Contact Info: 
 [dallsouk9652@granitesd.org](mailto:dallsouk9652@granitesd.org)
 
+Certification: I have passed the Utah Java State Certification Test.
+
 ## Processing Projects
 
 ### SpaceGame
