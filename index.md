@@ -35,6 +35,7 @@ Dozens of cars with randomized directions and speeds.
 
 ### Chess - Final Ptoject for Computer Science I
 OOP solution for a pawns-only chess clone.
+
 ![ChessMockup](https://github.com/9652211/ProgrammingProjects/blob/main/images/ChessMockup.png?raw=true)
 ![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
 
