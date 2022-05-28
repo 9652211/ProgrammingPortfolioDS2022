@@ -1,6 +1,11 @@
-# Dallin Soukup's Programming Portfolio
+# Programming I Portfolio
+
+# by Dallin Soukup
 
 2022 Programming projects for Processing and Java.
+
+Contact Info: 
+[dallsouk9652@granitesd.org](mailto:dallsouk9652@granitesd.org)
 
 ## Processing Projects
 
