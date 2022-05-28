@@ -11,7 +11,7 @@ Certification: I have passed the Utah Java State Certification Test.
 
 ## Processing Projects
 
-### SpaceGame
+### SpaceGame (Final Project Semester 1)
 OOP solution for a collision based graphics space shooter game.
 
 ![SpaceGame](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/sg1.png?raw=true)
@@ -22,6 +22,9 @@ Mockup:
 
 Source: 
 [SpaceGame Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
+
+App: 
+[SpaceGame App](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/apps/SpaceGameWindowsApp.zip)
 
 ### Calculator
 OOP solution for interactive calculator.
@@ -35,9 +38,12 @@ Mockup:
 Source: 
 [Calculator Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Calculator.zip)
 
-### ScreenSaver
+App: 
+[Calculator App](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/apps/CalculatorWindowsApp.zip)
+
+### Screensaver
 A colored, randomized path on the screen.
-![ScreenSaver](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreenSaver.png?raw=true)
+![Screensaver](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreenSaver.png?raw=true)
 
 Mockup: 
 
@@ -45,6 +51,9 @@ Mockup:
 
 Source: 
 [Screensaver Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Screensaver.pde)
+
+App: 
+[Screensaver App](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/apps/ScreensaverWindowsApp.zip)
 
 ### Cars
 100 cars on the screen with randomized directions, speeds, and colors.
@@ -57,7 +66,10 @@ Mockup:
 Source: 
 [Cars Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Cars.zip)
 
-### Chess - Final Ptoject for Computer Science I
+App: 
+[Cars App](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/apps/CarsWindowsApp.zip)
+
+### Chess (Final Project Semester 2)
 OOP solution for a pawns-only chess clone.
 
 ![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
@@ -70,4 +82,4 @@ Source:
 [Chess Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
 
 App: 
-[Windows EXE](https://github.com/9652211/ProgrammingProjects/blob/main/app/application.windows.zip)
+[Chess App](https://github.com/9652211/ProgrammingProjects/blob/main/app/application.windows.zip)
