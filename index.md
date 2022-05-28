@@ -16,22 +16,27 @@ OOP solution for a collision based graphics space shooter game.
 
 ![SpaceGame](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/sg1.png?raw=true)
 
-[Source Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
+Source: 
+[SpaceGame Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
 
 ### Calculator
 OOP solution for interactive calculator.
 
 ![SpaceGame](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/calc1.png?raw=true)
 
-[Source Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Calculator.zip)
+Source: 
+[Calculator Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Calculator.zip)
 
 ### ScreenSaver
-A colored, randomized path within the area.
+A colored, randomized path on the screen.
 ![ScreenSaver](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreenSaver.png?raw=true)
 
 ### Cars
-Dozens of cars with randomized directions and speeds.
+100 cars on the screen with randomized directions, speeds, and colors.
 ![Cars](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Cars.png?raw=true)
+
+Source: 
+[Cars Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Cars.zip)
 
 ### Chess - Final Ptoject for Computer Science I
 OOP solution for a pawns-only chess clone.
