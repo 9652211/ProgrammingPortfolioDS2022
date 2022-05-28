@@ -16,13 +16,21 @@ OOP solution for a collision based graphics space shooter game.
 
 ![SpaceGame](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/sg1.png?raw=true)
 
+Mockup: 
+
+![SpaceGameMockup](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/SpaceGameMockup.jpg?raw=true)
+
 Source: 
 [SpaceGame Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
 
 ### Calculator
 OOP solution for interactive calculator.
 
-![SpaceGame](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/calc1.png?raw=true)
+![Calculator](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/calc1.png?raw=true)
+
+Mockup: 
+
+![CalculatorMockup](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/CalculatorMockup.png?raw=true)
 
 Source: 
 [Calculator Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Calculator.zip)
@@ -31,9 +39,20 @@ Source:
 A colored, randomized path on the screen.
 ![ScreenSaver](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreenSaver.png?raw=true)
 
+Mockup: 
+
+![ScreensaverMockup](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreensaverMockup.png?raw=true)
+
+Source: 
+[Screensaver Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Screensaver.pde)
+
 ### Cars
 100 cars on the screen with randomized directions, speeds, and colors.
 ![Cars](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Cars.png?raw=true)
+
+Mockup: 
+
+![CarsMockup](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/CarsMockup.png?raw=true)
 
 Source: 
 [Cars Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Cars.zip)
@@ -41,8 +60,11 @@ Source:
 ### Chess - Final Ptoject for Computer Science I
 OOP solution for a pawns-only chess clone.
 
-![ChessMockup](https://github.com/9652211/ProgrammingProjects/blob/main/images/ChessMockup.png?raw=true)
 ![Chess](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/Chess.png?raw=true)
+
+Mockup: 
+
+![ChessMockup](https://github.com/9652211/ProgrammingProjects/blob/main/images/ChessMockup.png?raw=true)
 
 Source: 
 [Chess Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/SpaceGame.zip)
