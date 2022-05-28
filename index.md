@@ -47,7 +47,7 @@ A colored, randomized path on the screen.
 
 Mockup: 
 
-![ScreensaverMockup](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreensaverMockup.png?raw=true)
+![ScreensaverMockup](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/Images/ScreensaverMockup.jpg?raw=true)
 
 Source: 
 [Screensaver Code](https://github.com/9652211/ProgrammingPortfolioDS2022/blob/gh-pages/src/Screensaver.pde)
